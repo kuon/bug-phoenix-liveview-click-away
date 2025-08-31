@@ -2,7 +2,13 @@
 
 This is a reproduction for a phoenix bug.
 
-Just run: 
+Bug: <https://github.com/phoenixframework/phoenix_live_view/issues/3971>
+
+
+The click away phoenix even is dispatched when the clicked button is inside the
+container but managed by a js library.
+
+Just run:
 
 
 * Run `mix setup` to install and setup dependencies
