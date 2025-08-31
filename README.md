@@ -13,6 +13,6 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 ## Video
 
-![Bug Demo](bug.mp4)
+![Bug Demo](bug.gif)
 
 
